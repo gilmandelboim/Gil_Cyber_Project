@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\Tommy's Cyber Project\CyberProjectGUI\CyberProjectGUI\obj\x86\Debug\CyberProjectGUI.exe
+C:\Users\User\Desktop\Tommy's Cyber Project\CyberProjectGUI\CyberProjectGUI\obj\x86\Debug\CyberProjectGUI.pdb
+C:\Users\User\Desktop\Tommy's Cyber Project\CyberProjectGUI\CyberProjectGUI\bin\Debug\CyberProjectGUI.exe
+C:\Users\User\Desktop\Tommy's Cyber Project\CyberProjectGUI\CyberProjectGUI\bin\Debug\CyberProjectGUI.pdb
+C:\Users\User\Desktop\Tommy's Cyber Project\CyberProjectGUI\CyberProjectGUI\obj\x86\Debug\CyberProjectGUI.Form1.resources
+C:\Users\User\Desktop\Tommy's Cyber Project\CyberProjectGUI\CyberProjectGUI\obj\x86\Debug\CyberProjectGUI.Properties.Resources.resources
+C:\Users\User\Desktop\Tommy's Cyber Project\CyberProjectGUI\CyberProjectGUI\obj\x86\Debug\Gil.csproj.GenerateResource.Cache
+F:\15.2.16\Tommy's Cyber Project\CyberProjectGUI\CyberProjectGUI\obj\x86\Debug\CyberProjectGUI.exe
+F:\15.2.16\Tommy's Cyber Project\CyberProjectGUI\CyberProjectGUI\obj\x86\Debug\CyberProjectGUI.pdb

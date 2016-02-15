@@ -1,0 +1,18 @@
+C:\Users\User\Desktop\CyberProjectGUI\CyberProjectGUI\bin\Debug\CyberProjectGUI.exe
+C:\Users\User\Desktop\CyberProjectGUI\CyberProjectGUI\bin\Debug\CyberProjectGUI.pdb
+C:\Users\User\Desktop\CyberProjectGUI\CyberProjectGUI\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\User\Desktop\CyberProjectGUI\CyberProjectGUI\obj\x86\Debug\CyberProjectGUI.Form1.resources
+C:\Users\User\Desktop\CyberProjectGUI\CyberProjectGUI\obj\x86\Debug\CyberProjectGUI.Properties.Resources.resources
+C:\Users\User\Desktop\CyberProjectGUI\CyberProjectGUI\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\User\Desktop\CyberProjectGUI\CyberProjectGUI\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\User\Desktop\CyberProjectGUI\CyberProjectGUI\obj\x86\Debug\CyberProjectGUI.exe
+C:\Users\User\Desktop\CyberProjectGUI\CyberProjectGUI\obj\x86\Debug\CyberProjectGUI.pdb
+C:\Users\User\Desktop\CyberProject\CyberProjectGUI\CyberProjectGUI\obj\x86\Debug\CyberProjectGUI.exe
+C:\Users\User\Desktop\CyberProject\CyberProjectGUI\CyberProjectGUI\obj\x86\Debug\CyberProjectGUI.pdb
+C:\Users\User\Desktop\CyberProject\CyberProjectGUI\CyberProjectGUI\bin\Debug\CyberProjectGUI.exe
+C:\Users\User\Desktop\CyberProject\CyberProjectGUI\CyberProjectGUI\bin\Debug\CyberProjectGUI.pdb
+C:\Users\User\Desktop\CyberProject\CyberProjectGUI\CyberProjectGUI\obj\x86\Debug\CyberProjectGUI.Form1.resources
+C:\Users\User\Desktop\CyberProject\CyberProjectGUI\CyberProjectGUI\obj\x86\Debug\CyberProjectGUI.Properties.Resources.resources
+C:\Users\User\Desktop\CyberProject\CyberProjectGUI\CyberProjectGUI\obj\x86\Debug\CyberProjectGUI.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Tommy's Cyber Project\CyberProjectGUI\CyberProjectGUI\obj\x86\Debug\CyberProjectGUI.exe
+C:\Users\User\Desktop\Tommy's Cyber Project\CyberProjectGUI\CyberProjectGUI\obj\x86\Debug\CyberProjectGUI.pdb
